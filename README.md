@@ -1,10 +1,10 @@
-# IIP_Final_Report
-Final Report at Ansell Lanka Pvt Ltd. 
+# Industrial Internship - 2009 at Ansell Lanka (Pvt) Ltd., Sri Lanka
+Final Report
 
 I underwent a one-month industrial training at Ansell Lanka (Pvt) Ltd., where I performed a defect analysis to 
 improve the quality of their glove manufacturing process. The major objectives of this project were to:
 
-1) Identify the major defects of Professional Health Care (PHC) gloves.
+1) Identify the major defects of Professional Health Care (PHC) gloves.\\
 2) Determine the process average & average outgoing quality of PHC gloves over the time.
 3) Analyze the relationships between major defect types.
 4) Give an opportunity to make corrective decisions to improve the process quality.
